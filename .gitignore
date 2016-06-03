@@ -23,5 +23,7 @@ _testmain.go
 *.test
 *.prof
 
-# Project executable
+# Generated files
+parser.go
+y.output
 oboloader
